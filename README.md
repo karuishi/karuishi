@@ -4,6 +4,7 @@ I'm passionate about Assistive Technology, Robotics, and Artificial Intelligence
 🎯 Objective
 
 My goal is to develop cutting-edge assistive technologies that enhance the independence and quality of life for individuals with disabilities.
+
 👨‍🎓 Education
 
     Bachelor of Information Systems (Undergraduate) at UNEB
