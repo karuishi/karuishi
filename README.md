@@ -9,7 +9,7 @@
   <a href="mailto:pedrolucas.js18@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-pedrolucas.js18%40gmail.com-blue?style=flat-square&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
+  <a href="https://linkedin.com/in/pedrolucasjs18">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
@@ -52,14 +52,3 @@
 - Advanced implementations of **Nav2** and **ROS 2**.
 - Diving deeper into Robotic Hardware for more efficient and practical designs.
 - Fundamentals and practical applications of **Data Science**.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karuishi&show_icons=true&theme=radical" alt="Pedro's GitHub Stats" />
-</p>
-
-<p align="center">
-  <i>Let's connect for collaboration or to chat about robotics and assistive tech!</i>
-</p>
